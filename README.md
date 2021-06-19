@@ -1,8 +1,7 @@
-![github pic](https://user-images.githubusercontent.com/85792305/122632359-f587a200-d0ef-11eb-91a6-9f8106fb630c.jpeg)
 
 <h1 align="center"> Hi there 👋 KISHORE LAXMAN here :v: </h1>
 
-<img align="left" width="250" height="350" src="https://user-images.githubusercontent.com/85792305/122632359-f587a200-d0ef-11eb-91a6-9f8106fb630c.jpeg"/>
+<img align="left" width="450" src="https://user-images.githubusercontent.com/85792305/122632359-f587a200-d0ef-11eb-91a6-9f8106fb630c.jpeg"/>
 
 <h3> About Me :star: </h3>
 

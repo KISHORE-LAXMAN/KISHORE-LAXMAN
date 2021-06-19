@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi there 👋 KISHORE LAXMAN here :v: </h1>
 
-<img align="left" width="250" height="350" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-vector%2Fweb-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_10798281.htm&psig=AOvVaw1QWjp2YWm1lQbn48mCRfpF&ust=1624167033108000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNjTpu77ovECFQAAAAAdAAAAABAD"/>
+<img align="left" width="250" height="350" src="https://user-images.githubusercontent.com/85792305/122632359-f587a200-d0ef-11eb-91a6-9f8106fb630c.jpeg"/>
 
 <h3> About Me :star: </h3>
 
